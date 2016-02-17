@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="glbeukox.httpsgoo.vogtresume.vogtResume">
+    <item
+        android:id="@+id/action_menu"
+        android:orderInCategory="100"
+        android:title="@string/action_menu"
+        app:showAsAction="never">
+
+        <menu>
+            <item
+                android:id="@+id/resume"
+                android:icon="@drawable/resumeicon"
+                android:title="@string/action_resume" />
+
+            <item
+                android:id="@+id/workAvailability"
+                android:icon="@drawable/schedule"
+                android:title="@string/workTitle" />
+
+            <item
+                android:id="@+id/linkedIn"
+                android:icon="@drawable/acctcircle"
+                android:title="@string/linkedIn" />
+
+        </menu>
+
+    </item>
+
+
+</menu>

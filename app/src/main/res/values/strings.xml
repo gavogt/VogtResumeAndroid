@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VogtResume</string>
+    <string name="action_menu">Menu</string>
+    <string name="action_resume">Resume</string>
+    <string name="splash_intro">Gabriel\'s Resume</string>
+    <string name="string_welcome">Welcome!</string>
+    <string name="my_head">My Head!</string>
+    <string name="ReferToMenu">By clicking the menu button, you may see my resume and other information. You may also click below to send me an email</string>
+    <string name="title_activity_launch_resume">launchResume</string>
+    <string name="workTitle">Gabriel\'s availability</string>
+    <string name="linkedIn">Gabriel\'s LinkedIn</string>
+</resources>
